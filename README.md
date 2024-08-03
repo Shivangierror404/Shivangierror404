@@ -3,7 +3,9 @@
 <!--
 **Shivangierror404/Shivangierror404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXBlejVpdmM4dHVibTc2bWhtbDR2dnB5bjc5OTg0cjE0aW0xMm13eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 Here are some ideas to get you started:
 
